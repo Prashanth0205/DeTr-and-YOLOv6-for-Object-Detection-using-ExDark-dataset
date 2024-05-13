@@ -1,4 +1,4 @@
-# DeTr-and-YOLOv6-for-Objection-Detection-using-ExDark-dataset
+# DeTr and YOLOv6 for Objection Detection using ExDark dataset
 
 ## Project Description
 This project aims to compare and evaluate the performance of transformer-based and traditional deep-learning object detection models on different image enhancement techniques.
