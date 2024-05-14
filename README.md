@@ -3,7 +3,7 @@
 ## Project Description
 This project aims to compare and evaluate the performance of transformer-based and traditional deep-learning object detection models on different image enhancement techniques.
 
-## Dataset - Exclusively-Dark-Image-Dataset
+## ExDark Dataset 
 The Exclusively Dark [(ExDark)](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) dataset contains the largest collection of natural low-light images taken in visible light to date, including object level annotation. 
 ### Dataset Folders Structure
 In git's repository root folder:
